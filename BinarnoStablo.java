@@ -1,4 +1,4 @@
-package mainDrugi;
+package main;
 
 import labis.cvorovi.CvorStabla;
 import labis.exception.LabisException;
